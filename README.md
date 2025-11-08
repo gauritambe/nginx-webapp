@@ -11,8 +11,6 @@
 Before you begin, make sure the following are installed on your system:
 
 - 🐳 **Docker**  
-- 🟢 **Node.js**  
-- 🌐 **Nginx**
 
 
 ## ⚙️ Overview
