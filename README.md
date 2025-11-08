@@ -74,7 +74,7 @@ npm -v   # Should print "11.6.1"
 ```bash
 vi /etc/nginx/nginx.conf
 ```
-📌 Open this file and copy the contents of your project's nginx.conf file.
+📌 Open this file and copy the contents of this project's nginx.conf file to your nginx.conf file"
 
 
 3️⃣ Start Nginx
