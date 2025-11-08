@@ -71,6 +71,11 @@ npm -v   # Should print "11.6.1"
 ```
 
 ## 2️⃣ Configure the nginx.conf file
+### Install Ngnix:
+```bash
+sudo dnf install ngnix -y
+```
+
 ```bash
 vi /etc/nginx/nginx.conf
 ```
