@@ -17,9 +17,10 @@ Before you begin, make sure the following are installed on your system:
 
 This project demonstrates how to:
 
-- Deploy a **Node.js** application inside a **Docker container**  
-- Configure **Nginx** as a **reverse proxy** to route traffic to the Node.js container  
-- Secure the application with **SSL (HTTPS)**  
+- Deploy a Node.js application inside a Docker container for consistent and portable environments.
+- Configure Nginx as a reverse proxy and load balancer to efficiently route traffic across Node.js instances.
+- Secure the application using SSL/TLS (HTTPS) for encrypted and trusted communication.
+- Implement automation and DevOps best practices for reliable deployment and scalability.
 
 
 
