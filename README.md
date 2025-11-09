@@ -136,3 +136,16 @@ docker compose down
 🧱 Works seamlessly for both development and production environments.
 
 
+
+## Output
+
+![Nginx_op](<Screenshot From 2025-11-09 13-39-25.png>)
+
+
+## Cannot see the output?
+### Some issues:
+
+1. Start and enable ngnix.service 
+2. Change SELinux --> Permissive
+3. Check the network is up and running 
+4. Docker container is not running
